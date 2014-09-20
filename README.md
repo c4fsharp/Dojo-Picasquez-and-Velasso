@@ -1,7 +1,9 @@
 Dojo: Picasquez and Velasso
 ==========================
 
-This dojo is all about manipulating images and creating mashups, [like this][Warhol-vs-Da-Vinci].
+This dojo is all about manipulating images and creating mashups, [like this][Warhol-vs-Da-Vinci]:
+
+![Mashup of Da Vinci and Warhol](https://github.com/c4fsharp/Dojo-Picasquez-and-Velasso/blob/master/assets/warinci-da-vinhol.PNG)
 
 If you want to try it out by yourself, clone or download this project, and follow the instructions in /dojo/script.fsx 
 
